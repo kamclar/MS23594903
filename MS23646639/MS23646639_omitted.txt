@@ -1,0 +1,56 @@
+"Protein.Group"	"Peptides"	"Protein_Names"	"Genes"	"First.Protein.Description"	"CTRL_2"	"CTRL_3"	"CTRL_4"	"CTRL.myr_1"	"CTRL.myr_2"	"CTRL.myr_3"	"CTRL.myr_4"	"HBV_1"	"HBV_2"	"HBV_3"	"HBV_4"	"HBV.myr_1"	"HBV.myr_2"	"HBV.myr_3"	"HBV.myr_4"
+"1"	"P49748"	1	"ACADV_HUMAN"	"ACADVL"	"Very long-chain specific acyl-CoA dehydrogenase, mitochondrial"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"2"	"Q15067"	1	"ACOX1_HUMAN"	"ACOX1"	"Peroxisomal acyl-coenzyme A oxidase 1"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"3"	"Q04828"	1	"AK1C1_HUMAN"	"AKR1C1"	"Aldo-keto reductase family 1 member C1"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"4"	"P47895"	2	"AL1A3_HUMAN"	"ALDH1A3"	"Aldehyde dehydrogenase family 1 member A3"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"5"	"P30837"	1	"AL1B1_HUMAN"	"ALDH1B1"	"Aldehyde dehydrogenase X, mitochondrial"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"6"	"P04083"	9	"ANXA1_HUMAN"	"ANXA1"	"Annexin A1"	200590	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"7"	"P13928;Q5VT79"	2	"ANXA8_HUMAN;AXA81_HUMAN"	"ANXA8;ANXA8L1"	"Annexin A8"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"8"	"Q6Q788"	1	"APOA5_HUMAN"	"APOA5"	"Apolipoprotein A-V"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	11229.8
+"9"	"P31941;Q9UH17"	1	"ABC3A_HUMAN;ABC3B_HUMAN"	"APOBEC3A;APOBEC3B"	"DNA dC->dU-editing enzyme APOBEC-3A"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"10"	"P05090"	1	"APOD_HUMAN"	"APOD"	"Apolipoprotein D"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"11"	"Q53RT3"	1	"APRV1_HUMAN"	"ASPRV1"	"Retroviral-like aspartic protease 1"	NA	NA	NA	NA	NA	NA	21792.7	NA	NA	NA	NA	NA	NA	NA	NA
+"12"	"P38606"	1	"VATA_HUMAN"	"ATP6V1A"	"V-type proton ATPase catalytic subunit A"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"13"	"P27482"	2	"CALL3_HUMAN"	"CALML3"	"Calmodulin-like protein 3"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"14"	"P27824"	1	"CALX_HUMAN"	"CANX"	"Calnexin"	NA	NA	16066.8	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"15"	"P29373"	2	"RABP2_HUMAN"	"CRABP2"	"Cellular retinoic acid-binding protein 2"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	19658.9	NA	NA	NA
+"16"	"Q14894"	2	"CRYM_HUMAN"	"CRYM"	"Ketimine reductase mu-crystallin"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	64466.8	NA	NA	NA	NA
+"17"	"Q9UGM3"	1	"DMBT1_HUMAN"	"DMBT1"	"Deleted in malignant brain tumors 1 protein"	NA	NA	NA	NA	NA	NA	NA	NA	38899.4	NA	NA	NA	NA	NA	NA
+"18"	"Q9UHY7"	1	"ENOPH_HUMAN"	"ENOPH1"	"Enolase-phosphatase E1"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"19"	"Q13822"	1	"ENPP2_HUMAN"	"ENPP2"	"Ectonucleotide pyrophosphatase/phosphodiesterase family member 2"	NA	NA	NA	NA	NA	100080	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"20"	"Q92817"	1	"EVPL_HUMAN"	"EVPL"	"Envoplakin"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"21"	"P09211"	4	"GSTP1_HUMAN"	"GSTP1"	"Glutathione S-transferase P"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"22"	"P10412;P16402;P16403"	1	"H12_HUMAN;H13_HUMAN;H14_HUMAN"	"H1-2;H1-3;H1-4"	"Histone H1.4"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	15361.7	NA	NA	NA
+"23"	"P06899;P23527;P33778;Q16778;Q8N257"	1	"H2B1B_HUMAN;H2B1J_HUMAN;H2B1O_HUMAN;H2B2E_HUMAN;H2B3B_HUMAN"	"H2BC11;H2BC17;H2BC21;H2BC3;H2BU1"	"Histone H2B type 1-J"	NA	10483.8	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"24"	"P40939"	1	"ECHA_HUMAN"	"HADHA"	"Trifunctional enzyme subunit alpha, mitochondrial"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"25"	"A0A0B4J2B5;A0A4W8ZXM2;S4R460"	2	"A0A0B4J2B5_HUMAN;A0A4W8ZXM2_HUMAN;S4R460_HUMAN"	"IGHV3-72;IGHV3OR16-9"	"Immunoglobulin heavy variable 3/OR16-9 (non-functional) (Fragment)"	NA	NA	NA	NA	NA	NA	NA	NA	58255.5	NA	NA	NA	NA	NA	NA
+"26"	"P46940"	1	"IQGA1_HUMAN"	"IQGAP1"	"Ras GTPase-activating-like protein IQGAP1"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"27"	"Q96CN7"	1	"ISOC1_HUMAN"	"ISOC1"	"Isochorismatase domain-containing protein 1"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"28"	"P07476"	3	"INVO_HUMAN"	"IVL"	"Involucrin"	39728.5	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"29"	"Q5T749"	2	"KPRP_HUMAN"	"KPRP"	"Keratinocyte proline-rich protein"	NA	NA	NA	NA	NA	154380	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"30"	"Q86WU2"	1	"LDHD_HUMAN"	"LDHD"	"Probable D-lactate dehydrogenase, mitochondrial"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"31"	"P47929"	8	"LEG7_HUMAN"	"LGALS7"	"Galectin-7"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	81180.4	NA	NA	NA
+"32"	"Q9H008"	1	"LHPP_HUMAN"	"LHPP"	"Phospholysine phosphohistidine inorganic pyrophosphate phosphatase"	NA	NA	13145.7	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"33"	"P62310"	1	"LSM3_HUMAN"	"LSM3"	"U6 snRNA-associated Sm-like protein LSm3"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"34"	"P05164"	4	"PERM_HUMAN"	"MPO"	"Myeloperoxidase"	NA	NA	NA	NA	NA	NA	NA	NA	14685.4	NA	NA	NA	NA	NA	NA
+"35"	"P20591"	1	"MX1_HUMAN"	"MX1"	"Interferon-induced GTP-binding protein Mx1"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"36"	"Q6ZVX7"	2	"FBX50_HUMAN"	"NCCRP1"	"F-box only protein 50"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"37"	"Q9NTK5"	1	"OLA1_HUMAN"	"OLA1"	"Obg-like ATPase 1"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"38"	"Q96HS1"	1	"PGAM5_HUMAN"	"PGAM5"	"Serine/threonine-protein phosphatase PGAM5, mitochondrial"	NA	NA	NA	NA	589553	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"39"	"Q9P0Z9"	2	"SOX_HUMAN"	"PIPOX"	"Peroxisomal sarcosine oxidase"	NA	NA	NA	NA	NA	18840.6	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"40"	"Q00169"	1	"PIPNA_HUMAN"	"PITPNA"	"Phosphatidylinositol transfer protein alpha isoform"	NA	NA	NA	NA	NA	22356.1	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"41"	"O60437"	1	"PEPL_HUMAN"	"PPL"	"Periplakin"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"42"	"P24158"	2	"PRTN3_HUMAN"	"PRTN3"	"Myeloblastin"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"43"	"Q15185"	1	"TEBP_HUMAN"	"PTGES3"	"Prostaglandin E synthase 3"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"44"	"P51153;P59190;P61006;P61026;P62820;Q92928;Q92930;Q9H0U4"	1	"RAB10_HUMAN;RAB13_HUMAN;RAB15_HUMAN;RAB1A_HUMAN;RAB1B_HUMAN;RAB1C_HUMAN;RAB8A_HUMAN;RAB8B_HUMAN"	"RAB10;RAB13;RAB15;RAB1A;RAB1B;RAB1C;RAB8A;RAB8B"	"Ras-related protein Rab-13"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"45"	"Q9H477"	1	"RBSK_HUMAN"	"RBKS"	"Ribokinase"	NA	NA	13954.5	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"46"	"Q96TC7"	1	"RMD3_HUMAN"	"RMDN3"	"Regulator of microtubule dynamics protein 3"	NA	NA	NA	NA	NA	12028.9	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"47"	"P04844"	1	"RPN2_HUMAN"	"RPN2"	"Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 2"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"48"	"P61247"	1	"RS3A_HUMAN"	"RPS3A"	"40S ribosomal protein S3a"	NA	NA	NA	NA	NA	NA	NA	NA	NA	18936.2	NA	NA	NA	NA	NA
+"49"	"Q9HCY8"	1	"S10AE_HUMAN"	"S100A14"	"Protein S100-A14"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"50"	"Q9Y6N5"	1	"SQOR_HUMAN"	"SQOR"	"Sulfide:quinone oxidoreductase, mitochondrial"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"51"	"Q9UNP4"	1	"SIAT9_HUMAN"	"ST3GAL5"	"Lactosylceramide alpha-2,3-sialyltransferase"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	44881.1
+"52"	"P22735"	2	"TGM1_HUMAN"	"TGM1"	"Protein-glutamine gamma-glutamyltransferase K"	NA	NA	NA	NA	NA	24743.2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"53"	"P29144"	1	"TPP2_HUMAN"	"TPP2"	"Tripeptidyl-peptidase 2"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"54"	"P21796"	1	"VDAC1_HUMAN"	"VDAC1"	"Voltage-dependent anion-selective channel protein 1"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"55"	"O75191"	1	"XYLB_HUMAN"	"XYLB"	"Xylulose kinase"	NA	NA	53553.9	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
