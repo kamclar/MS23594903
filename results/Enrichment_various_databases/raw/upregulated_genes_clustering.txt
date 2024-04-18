@@ -1,0 +1,20 @@
+Gene Group 1	Enrichment Score: 4.401630872218664
+ENTREZ_GENE_ID	Gene Name
+116519	apolipoprotein A5(APOA5)
+336	apolipoprotein A2(APOA2)
+344	apolipoprotein C2(APOC2)
+341	apolipoprotein C1(APOC1)
+
+Gene Group 2	Enrichment Score: 4.264397682373773
+ENTREZ_GENE_ID	Gene Name
+54504	carboxypeptidase vitellogenic like(CPVL)
+10404	carboxypeptidase Q(CPQ)
+5476	cathepsin A(CTSA)
+59342	serine carboxypeptidase 1(SCPEP1)
+
+Gene Group 3	Enrichment Score: 1.4713972311165173
+ENTREZ_GENE_ID	Gene Name
+3437	interferon induced protein with tetratricopeptide repeats 3(IFIT3)
+23523	calcineurin binding protein 1(CABIN1)
+3434	interferon induced protein with tetratricopeptide repeats 1(IFIT1)
+3433	interferon induced protein with tetratricopeptide repeats 2(IFIT2)
