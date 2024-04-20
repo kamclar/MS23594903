@@ -1,0 +1,5 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"hsa04977","hsa04977","Vitamin digestion and absorption","1/1","26/8753",0.00297041014509314,0.00776876499485901,NA,"338",1
+"hsa04975","hsa04975","Fat digestion and absorption","1/1","43/8753",0.00491260139380789,0.00776876499485901,NA,"338",1
+"hsa04979","hsa04979","Cholesterol metabolism","1/1","51/8753",0.00582657374614426,0.00776876499485901,NA,"338",1
+"hsa05417","hsa05417","Lipid and atherosclerosis","1/1","215/8753",0.0245630069690391,0.0245630069690391,NA,"338",1
