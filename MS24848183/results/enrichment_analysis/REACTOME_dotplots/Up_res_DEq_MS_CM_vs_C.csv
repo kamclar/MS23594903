@@ -1,0 +1,8 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"R-HSA-6811434","R-HSA-6811434","COPI-dependent Golgi-to-ER retrograde traffic","1/1","99/10955",0.00903696942035592,0.0215122470713525,NA,"54732",1
+"R-HSA-6807878","R-HSA-6807878","COPI-mediated anterograde transport","1/1","101/10955",0.00921953445915102,0.0215122470713525,NA,"54732",1
+"R-HSA-8856688","R-HSA-8856688","Golgi-to-ER retrograde transport","1/1","133/10955",0.0121405750798722,0.0215122470713525,NA,"54732",1
+"R-HSA-199977","R-HSA-199977","ER to Golgi Anterograde Transport","1/1","154/10955",0.0140575079872202,0.0215122470713525,NA,"54732",1
+"R-HSA-948021","R-HSA-948021","Transport to the Golgi and subsequent modification","1/1","185/10955",0.0168872660885442,0.0215122470713525,NA,"54732",1
+"R-HSA-6811442","R-HSA-6811442","Intra-Golgi and retrograde Golgi-to-ER traffic","1/1","202/10955",0.0184390689183022,0.0215122470713525,NA,"54732",1
+"R-HSA-446203","R-HSA-446203","Asparagine N-linked glycosylation","1/1","304/10955",0.0277498858968503,0.0277498858968503,NA,"54732",1
