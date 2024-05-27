@@ -1,0 +1,4 @@
+"Protein.Group"	"Peptides"	"Protein.Ids"	"Protein.Names"	"Genes"	"First.Protein.Description"	"C_1"	"C_2"	"C_3"	"C_4"	"D_1"	"D_2"	"D_3"	"D_4"	"DM_1"	"DM_2"	"DM_3"	"DM_4"	"I_1"	"I_2"	"I_3"	"I_4"
+"1"	"Q9NZI7"	1	"Q9NZI7"	"UBIP1_HUMAN"	"UBP1"	"Upstream-binding protein 1"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	15.7083349077412	NA	NA
+"2"	"Q7Z6B0"	1	"Q7Z6B0;H0YGB4"	"CCD91_HUMAN"	"CCDC91"	"Coiled-coil domain-containing protein 91"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	16.8727590350268	NA	NA	NA	NA
+"3"	"Q5M9Q1"	1	"Q8N5F7;Q5M9Q1;A0A494C050"	"NKAPL_HUMAN;NKAP_HUMAN"	"NKAP;NKAPL"	"NKAP-like protein"	NA	NA	NA	NA	NA	NA	NA	NA	17.9956788343254	NA	NA	NA	NA	NA	NA	NA
