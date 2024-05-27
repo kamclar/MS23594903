@@ -1,0 +1,4 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"hsa03420","hsa03420","Nucleotide excision repair","1/1","63/8779",0.00717621596992823,0.0215286479097847,NA,"8450",1
+"hsa04120","hsa04120","Ubiquitin mediated proteolysis","1/1","142/8779",0.0161749629798384,0.0241485362797585,NA,"8450",1
+"hsa05170","hsa05170","Human immunodeficiency virus 1 infection","1/1","212/8779",0.0241485362797585,0.0241485362797585,NA,"8450",1

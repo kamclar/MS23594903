@@ -1,0 +1,4 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"GO:0003684","GO:0003684","damaged DNA binding","1/1","71/18369",0.00386520768686371,0.0115956230605911,NA,"8450",1
+"GO:0031625","GO:0031625","ubiquitin protein ligase binding","1/1","301/18369",0.0163863030105067,0.0174206543633295,NA,"8450",1
+"GO:0044389","GO:0044389","ubiquitin-like protein ligase binding","1/1","320/18369",0.0174206543633295,0.0174206543633295,NA,"8450",1
