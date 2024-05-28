@@ -1,0 +1,2 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count","name"
+"hsa05150","hsa05150","Staphylococcus aureus infection","2/3","96/8779",0.000352503584325647,0.00634506451786165,0.0029684512364265,"3860/718",2,"Downres_DEq_MS_HBV_vs_CTRL.myr"
