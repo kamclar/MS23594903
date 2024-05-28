@@ -1,0 +1,4 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count","name"
+"GO:0005925","GO:0005925","focal adhesion","5/20","422/19518",5.47097591689033e-05,0.00155915416483591,0.00119068532711927,"4162/3673/8754/7171/3371",5,"Downres_DEq_MS_HBV_vs_HBV.myr"
+"GO:0030055","GO:0030055","cell-substrate junction","5/20","432/19518",6.11433005818004e-05,0.00155915416483591,0.00119068532711927,"4162/3673/8754/7171/3371",5,"Downres_DEq_MS_HBV_vs_HBV.myr"
+"GO:0098636","GO:0098636","protein complex involved in cell adhesion","2/20","57/19518",0.00153918867479891,0.0261662074715815,0.0199824494623016,"3673/3371",2,"Downres_DEq_MS_HBV_vs_HBV.myr"

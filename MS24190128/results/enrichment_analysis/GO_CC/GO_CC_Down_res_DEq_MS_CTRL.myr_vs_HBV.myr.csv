@@ -1,0 +1,2 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count","name"
+"GO:0032432","GO:0032432","actin filament bundle","4/70","78/19518",0.000177144640909169,0.0343660603363788,0.0315130992775258,"4082/7171/7791/6624",4,"Downres_DEq_MS_CTRL.myr_vs_HBV.myr"

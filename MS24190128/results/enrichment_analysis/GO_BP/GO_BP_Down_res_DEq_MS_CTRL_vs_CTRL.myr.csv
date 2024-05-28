@@ -1,0 +1,2 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count","name"
+"GO:0006953","GO:0006953","acute-phase response","3/25","48/18614",3.55670401339696e-05,0.0303031181941421,0.0229126616441994,"7037/3929/197",3,"Downres_DEq_MS_CTRL_vs_CTRL.myr"
