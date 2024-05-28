@@ -1,0 +1,3 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count","name"
+"hsa04142","hsa04142","Lysosome","3/4","132/8779",1.31476286819912e-05,0.00011832865813792,4.15188274168142e-05,"5476/5660/1508",3,"Upres_DEq_MS_HBV.myr_vs_HBV"
+"hsa04614","hsa04614","Renin-angiotensin system","1/4","23/8779",0.0104402194674976,0.0469809876037393,0.0164845570539436,"5476",1,"Upres_DEq_MS_HBV.myr_vs_HBV"
