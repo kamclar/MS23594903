@@ -1,0 +1,5 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count","name"
+"GO:0004252","GO:0004252","serine-type endopeptidase activity","1/1","170/18369",0.00925472263051874,0.0140816956103582,NA,"3250",1,"Upres_DEq_MS_CTRL.myr_vs_HBV.myr"
+"GO:0008236","GO:0008236","serine-type peptidase activity","1/1","190/18369",0.0103435135282267,0.0140816956103582,NA,"3250",1,"Upres_DEq_MS_CTRL.myr_vs_HBV.myr"
+"GO:0017171","GO:0017171","serine hydrolase activity","1/1","194/18369",0.0105612717077687,0.0140816956103582,NA,"3250",1,"Upres_DEq_MS_CTRL.myr_vs_HBV.myr"
+"GO:0004175","GO:0004175","endopeptidase activity","1/1","428/18369",0.023300125210953,0.023300125210953,NA,"3250",1,"Upres_DEq_MS_CTRL.myr_vs_HBV.myr"

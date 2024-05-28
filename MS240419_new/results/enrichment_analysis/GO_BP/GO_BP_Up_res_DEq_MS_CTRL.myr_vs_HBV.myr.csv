@@ -1,0 +1,2 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count","name"
+"GO:0002526","GO:0002526","acute inflammatory response","1/1","114/18614",0.00612442247770473,0.00612442247770473,NA,"3250",1,"Upres_DEq_MS_CTRL.myr_vs_HBV.myr"

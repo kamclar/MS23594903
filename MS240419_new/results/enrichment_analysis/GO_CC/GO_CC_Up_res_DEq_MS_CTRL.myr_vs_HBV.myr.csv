@@ -1,0 +1,6 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count","name"
+"GO:0034364","GO:0034364","high-density lipoprotein particle","1/1","27/19518",0.00138333845680905,0.00249769443590495,NA,"3250",1,"Upres_DEq_MS_CTRL.myr_vs_HBV.myr"
+"GO:0034358","GO:0034358","plasma lipoprotein particle","1/1","36/19518",0.0018444512757454,0.00249769443590495,NA,"3250",1,"Upres_DEq_MS_CTRL.myr_vs_HBV.myr"
+"GO:1990777","GO:1990777","lipoprotein particle","1/1","36/19518",0.0018444512757454,0.00249769443590495,NA,"3250",1,"Upres_DEq_MS_CTRL.myr_vs_HBV.myr"
+"GO:0032994","GO:0032994","protein-lipid complex","1/1","39/19518",0.00199815554872396,0.00249769443590495,NA,"3250",1,"Upres_DEq_MS_CTRL.myr_vs_HBV.myr"
+"GO:0072562","GO:0072562","blood microparticle","1/1","144/19518",0.0073778051029818,0.0073778051029818,NA,"3250",1,"Upres_DEq_MS_CTRL.myr_vs_HBV.myr"
