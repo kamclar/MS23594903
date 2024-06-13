@@ -1,0 +1,7 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count","name"
+"hsa04979","hsa04979","Cholesterol metabolism","1/2","51/8840",0.0115058264509562,0.0430875301202664,0.0113388237158596,"348",1,"Downres_DEq_MS_CTRL.myr_vs_HBV.myr"
+"hsa05133","hsa05133","Pertussis","1/2","78/8840",0.0175701935938987,0.0430875301202664,0.0113388237158596,"720",1,"Downres_DEq_MS_CTRL.myr_vs_HBV.myr"
+"hsa04610","hsa04610","Complement and coagulation cascades","1/2","88/8840",0.0198115202114858,0.0430875301202664,0.0113388237158596,"720",1,"Downres_DEq_MS_CTRL.myr_vs_HBV.myr"
+"hsa05150","hsa05150","Staphylococcus aureus infection","1/2","100/8840",0.0224977334611777,0.0430875301202664,0.0113388237158596,"720",1,"Downres_DEq_MS_CTRL.myr_vs_HBV.myr"
+"hsa05322","hsa05322","Systemic lupus erythematosus","1/2","139/8840",0.0312024711544222,0.0430875301202664,0.0113388237158596,"720",1,"Downres_DEq_MS_CTRL.myr_vs_HBV.myr"
+"hsa04936","hsa04936","Alcoholic liver disease","1/2","144/8840",0.0323156475901998,0.0430875301202664,0.0113388237158596,"720",1,"Downres_DEq_MS_CTRL.myr_vs_HBV.myr"
