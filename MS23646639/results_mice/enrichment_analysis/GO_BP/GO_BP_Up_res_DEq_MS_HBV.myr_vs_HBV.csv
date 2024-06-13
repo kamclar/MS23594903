@@ -1,0 +1,8 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count","name"
+"GO:0046034","GO:0046034","ATP metabolic process","3/13","219/18614",0.000421116386404289,0.0421713515718382,0.029217280897618,"498/4723/2027",3,"Upres_DEq_MS_HBV.myr_vs_HBV"
+"GO:0009205","GO:0009205","purine ribonucleoside triphosphate metabolic process","3/13","244/18614",0.000577379598995773,0.0421713515718382,0.029217280897618,"498/4723/2027",3,"Upres_DEq_MS_HBV.myr_vs_HBV"
+"GO:0009144","GO:0009144","purine nucleoside triphosphate metabolic process","3/13","249/18614",0.000612518748073775,0.0421713515718382,0.029217280897618,"498/4723/2027",3,"Upres_DEq_MS_HBV.myr_vs_HBV"
+"GO:0009199","GO:0009199","ribonucleoside triphosphate metabolic process","3/13","251/18614",0.00062695019014932,0.0421713515718382,0.029217280897618,"498/4723/2027",3,"Upres_DEq_MS_HBV.myr_vs_HBV"
+"GO:0009141","GO:0009141","nucleoside triphosphate metabolic process","3/13","269/18614",0.000766751846760694,0.0421713515718382,0.029217280897618,"498/4723/2027",3,"Upres_DEq_MS_HBV.myr_vs_HBV"
+"GO:0042776","GO:0042776","proton motive force-driven mitochondrial ATP synthesis","2/13","67/18614",0.000970366379861172,0.0444751257436371,0.0308133885534864,"498/4723",2,"Upres_DEq_MS_HBV.myr_vs_HBV"
+"GO:0015986","GO:0015986","proton motive force-driven ATP synthesis","2/13","76/18614",0.00124638580605666,0.0489651566665115,0.0339241850971812,"498/4723",2,"Upres_DEq_MS_HBV.myr_vs_HBV"
