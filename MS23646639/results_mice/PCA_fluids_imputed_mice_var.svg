@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="-547.553 -177.532 502.601 359.535" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="cpMC4wMHw1MDQuMDB8MC4wMHwzNjAuMDA=">
+      <rect x="0.00" y="0.00" width="504.00" height="360.00" style="fill: none; stroke: rgb(0, 0, 0); stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10;"/>
+    </clipPath>
+    <clipPath id="cpMzYuMDd8NDEzLjc3fDIzLjE4fDMyOC41MA==">
+      <rect x="36.07" y="23.18" width="377.70" height="305.33" style="fill: none; stroke: rgb(0, 0, 0); stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10;"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#cpMC4wMHw1MDQuMDB8MC4wMHwzNjAuMDA=)" transform="matrix(1, 0, 0, 1, -547.884399, -177.317215)">
+    <rect x="0.00" y="0.00" width="504.00" height="360.00" style="stroke-width: 1.07; stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255); stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10;"/>
+  </g>
+  <g clip-path="url(#cpMzYuMDd8NDEzLjc3fDIzLjE4fDMyOC41MA==)" transform="matrix(1, 0, 0, 1, -547.884399, -177.317215)">
+    <rect x="36.07" y="23.18" width="377.70" height="305.33" style="stroke-width: 1.07; stroke: none; fill: rgb(255, 255, 255); stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10;"/>
+    <circle cx="53.24" cy="77.22" r="4.62" style="stroke-width: 0.71; stroke: rgb(248, 118, 109); stroke-opacity: 0.7; fill: rgb(248, 118, 109); fill-opacity: 0.7; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10;"/>
+    <circle cx="96.68" cy="43.60" r="4.62" style="stroke-width: 0.71; stroke: rgb(248, 118, 109); stroke-opacity: 0.7; fill: rgb(248, 118, 109); fill-opacity: 0.7; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10;"/>
+    <circle cx="66.95" cy="37.06" r="4.62" style="stroke-width: 0.71; stroke: rgb(248, 118, 109); stroke-opacity: 0.7; fill: rgb(248, 118, 109); fill-opacity: 0.7; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10;"/>
+    <circle cx="225.28" cy="167.86" r="4.62" style="stroke-width: 0.71; stroke: rgb(124, 174, 0); stroke-opacity: 0.7; fill: rgb(124, 174, 0); fill-opacity: 0.7; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10;"/>
+    <circle cx="180.99" cy="190.40" r="4.62" style="stroke-width: 0.71; stroke: rgb(124, 174, 0); stroke-opacity: 0.7; fill: rgb(124, 174, 0); fill-opacity: 0.7; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10;"/>
+    <circle cx="64.54" cy="201.75" r="4.62" style="stroke-width: 0.71; stroke: rgb(124, 174, 0); stroke-opacity: 0.7; fill: rgb(124, 174, 0); fill-opacity: 0.7; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10;"/>
+    <circle cx="108.24" cy="175.03" r="4.62" style="stroke-width: 0.71; stroke: rgb(124, 174, 0); stroke-opacity: 0.7; fill: rgb(124, 174, 0); fill-opacity: 0.7; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10;"/>
+    <circle cx="342.07" cy="41.41" r="4.62" style="stroke-width: 0.71; stroke: rgb(0, 191, 196); stroke-opacity: 0.7; fill: rgb(0, 191, 196); fill-opacity: 0.7; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10;"/>
+    <circle cx="365.43" cy="60.91" r="4.62" style="stroke-width: 0.71; stroke: rgb(0, 191, 196); stroke-opacity: 0.7; fill: rgb(0, 191, 196); fill-opacity: 0.7; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10;"/>
+    <circle cx="235.57" cy="44.86" r="4.62" style="stroke-width: 0.71; stroke: rgb(0, 191, 196); stroke-opacity: 0.7; fill: rgb(0, 191, 196); fill-opacity: 0.7; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10;"/>
+    <circle cx="196.59" cy="115.83" r="4.62" style="stroke-width: 0.71; stroke: rgb(0, 191, 196); stroke-opacity: 0.7; fill: rgb(0, 191, 196); fill-opacity: 0.7; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10;"/>
+    <circle cx="396.60" cy="162.67" r="4.62" style="stroke-width: 0.71; stroke: rgb(199, 124, 255); stroke-opacity: 0.7; fill: rgb(199, 124, 255); fill-opacity: 0.7; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10;"/>
+    <circle cx="340.59" cy="174.61" r="4.62" style="stroke-width: 0.71; stroke: rgb(199, 124, 255); stroke-opacity: 0.7; fill: rgb(199, 124, 255); fill-opacity: 0.7; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10;"/>
+    <circle cx="289.25" cy="196.26" r="4.62" style="stroke-width: 0.71; stroke: rgb(199, 124, 255); stroke-opacity: 0.7; fill: rgb(199, 124, 255); fill-opacity: 0.7; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10;"/>
+    <circle cx="166.73" cy="314.63" r="4.62" style="stroke-width: 0.71; stroke: rgb(199, 124, 255); stroke-opacity: 0.7; fill: rgb(199, 124, 255); fill-opacity: 0.7; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10;"/>
+    <line x1="36.07" y1="133.61" x2="413.77" y2="133.61" style="stroke-width: 1.07; stroke: rgb(166, 166, 166); stroke-linecap: butt; fill: none; stroke-linejoin: round; stroke-miterlimit: 10;"/>
+    <line x1="208.58" y1="328.50" x2="208.58" y2="23.18" style="stroke-width: 1.07; stroke: rgb(166, 166, 166); stroke-linecap: butt; fill: none; stroke-linejoin: round; stroke-miterlimit: 10;"/>
+  </g>
+  <g clip-path="url(#cpMC4wMHw1MDQuMDB8MC4wMHwzNjAuMDA=)" transform="matrix(1, 0, 0, 1, -547.884399, -177.317215)">
+    <polyline points="36.07,328.50 36.07,23.18 " style="stroke-width: 1.07; stroke-linecap: butt; fill: none; stroke: rgb(0, 0, 0); stroke-linejoin: round; stroke-miterlimit: 10;"/>
+    <text x="31.14" y="279.61" text-anchor="end" style="font-size: 8.8px; fill: rgb(77, 77, 77); font-family: Arial; white-space: pre;" textLength="12.72px" lengthAdjust="spacingAndGlyphs">-10</text>
+    <text x="31.14" y="208.19" text-anchor="end" style="font-size: 8.8px; fill: rgb(77, 77, 77); font-family: Arial; white-space: pre;" textLength="7.83px" lengthAdjust="spacingAndGlyphs">-5</text>
+    <text x="31.14" y="136.76" text-anchor="end" style="font-size: 8.8px; fill: rgb(77, 77, 77); font-family: Arial; white-space: pre;" textLength="4.90px" lengthAdjust="spacingAndGlyphs">0</text>
+    <text x="31.14" y="65.33" text-anchor="end" style="font-size: 8.8px; fill: rgb(77, 77, 77); font-family: Arial; white-space: pre;" textLength="4.90px" lengthAdjust="spacingAndGlyphs">5</text>
+    <polyline points="33.33,276.46 36.07,276.46 " style="stroke-width: 1.07; stroke: rgb(51, 51, 51); stroke-linecap: butt; fill: none; stroke-linejoin: round; stroke-miterlimit: 10;"/>
+    <polyline points="33.33,205.04 36.07,205.04 " style="stroke-width: 1.07; stroke: rgb(51, 51, 51); stroke-linecap: butt; fill: none; stroke-linejoin: round; stroke-miterlimit: 10;"/>
+    <polyline points="33.33,133.61 36.07,133.61 " style="stroke-width: 1.07; stroke: rgb(51, 51, 51); stroke-linecap: butt; fill: none; stroke-linejoin: round; stroke-miterlimit: 10;"/>
+    <polyline points="33.33,62.18 36.07,62.18 " style="stroke-width: 1.07; stroke: rgb(51, 51, 51); stroke-linecap: butt; fill: none; stroke-linejoin: round; stroke-miterlimit: 10;"/>
+    <polyline points="36.07,328.50 413.77,328.50 " style="stroke-width: 1.07; stroke-linecap: butt; fill: none; stroke: rgb(0, 0, 0); stroke-linejoin: round; stroke-miterlimit: 10;"/>
+    <polyline points="110.10,331.24 110.10,328.50 " style="stroke-width: 1.07; stroke: rgb(51, 51, 51); stroke-linecap: butt; fill: none; stroke-linejoin: round; stroke-miterlimit: 10;"/>
+    <polyline points="208.58,331.24 208.58,328.50 " style="stroke-width: 1.07; stroke: rgb(51, 51, 51); stroke-linecap: butt; fill: none; stroke-linejoin: round; stroke-miterlimit: 10;"/>
+    <polyline points="307.06,331.24 307.06,328.50 " style="stroke-width: 1.07; stroke: rgb(51, 51, 51); stroke-linecap: butt; fill: none; stroke-linejoin: round; stroke-miterlimit: 10;"/>
+    <polyline points="405.54,331.24 405.54,328.50 " style="stroke-width: 1.07; stroke: rgb(51, 51, 51); stroke-linecap: butt; fill: none; stroke-linejoin: round; stroke-miterlimit: 10;"/>
+    <text x="110.10" y="339.74" text-anchor="middle" style="font-size: 8.8px; fill: rgb(77, 77, 77); font-family: Arial; white-space: pre;" textLength="12.72px" lengthAdjust="spacingAndGlyphs">-10</text>
+    <text x="208.58" y="339.74" text-anchor="middle" style="font-size: 8.8px; fill: rgb(77, 77, 77); font-family: Arial; white-space: pre;" textLength="4.90px" lengthAdjust="spacingAndGlyphs">0</text>
+    <text x="307.06" y="339.74" text-anchor="middle" style="font-size: 8.8px; fill: rgb(77, 77, 77); font-family: Arial; white-space: pre;" textLength="9.79px" lengthAdjust="spacingAndGlyphs">10</text>
+    <text x="405.54" y="339.74" text-anchor="middle" style="font-size: 8.8px; fill: rgb(77, 77, 77); font-family: Arial; white-space: pre;" textLength="9.79px" lengthAdjust="spacingAndGlyphs">20</text>
+    <text x="224.92" y="352.20" text-anchor="middle" style="font-size: 11px; font-family: Arial; white-space: pre;" textLength="21.40px" lengthAdjust="spacingAndGlyphs" transform="matrix(4.615114, 0, 0, 1, -774.429565, 0)">PC1 (43.23% variance)</text>
+    <text transform="matrix(0, -4.456151, 1, 0, 13.36, 138.859177)" text-anchor="middle" style="font-size: 11px; font-family: Arial; white-space: pre;" textLength="21.40px" lengthAdjust="spacingAndGlyphs">PC2 (14.79% variance)</text>
+    <rect x="424.73" y="127.96" width="73.79" height="95.75" style="stroke-width: 1.07; stroke: none; fill: rgb(255, 255, 255); stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10;"/>
+    <text x="430.21" y="142.48" style="font-size: 11px; font-family: Arial; white-space: pre;" textLength="30.59px" lengthAdjust="spacingAndGlyphs">Group</text>
+    <rect x="430.21" y="149.12" width="17.28" height="17.28" style="stroke-width: 1.07; stroke: none; fill: rgb(255, 255, 255); stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10;"/>
+    <circle cx="438.85" cy="157.76" r="4.62" style="stroke-width: 0.71; stroke: rgb(248, 118, 109); stroke-opacity: 0.7; fill: rgb(248, 118, 109); fill-opacity: 0.7; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10;"/>
+    <rect x="430.21" y="166.40" width="17.28" height="17.28" style="stroke-width: 1.07; stroke: none; fill: rgb(255, 255, 255); stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10;"/>
+    <circle cx="438.85" cy="175.04" r="4.62" style="stroke-width: 0.71; stroke: rgb(124, 174, 0); stroke-opacity: 0.7; fill: rgb(124, 174, 0); fill-opacity: 0.7; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10;"/>
+    <rect x="430.21" y="183.68" width="17.28" height="17.28" style="stroke-width: 1.07; stroke: none; fill: rgb(255, 255, 255); stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10;"/>
+    <circle cx="438.85" cy="192.32" r="4.62" style="stroke-width: 0.71; stroke: rgb(0, 191, 196); stroke-opacity: 0.7; fill: rgb(0, 191, 196); fill-opacity: 0.7; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10;"/>
+    <rect x="430.21" y="200.96" width="17.28" height="17.28" style="stroke-width: 1.07; stroke: none; fill: rgb(255, 255, 255); stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10;"/>
+    <circle cx="438.85" cy="209.60" r="4.62" style="stroke-width: 0.71; stroke: rgb(199, 124, 255); stroke-opacity: 0.7; fill: rgb(199, 124, 255); fill-opacity: 0.7; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10;"/>
+    <text x="452.97" y="160.91" style="font-size: 8.8px; font-family: Arial; white-space: pre;" textLength="22.97px" lengthAdjust="spacingAndGlyphs">CTRL</text>
+    <text x="452.97" y="178.19" style="font-size: 8.8px; font-family: Arial; white-space: pre;" textLength="40.08px" lengthAdjust="spacingAndGlyphs">CTRL.myr</text>
+    <text x="452.97" y="195.47" style="font-size: 8.8px; font-family: Arial; white-space: pre;" textLength="18.09px" lengthAdjust="spacingAndGlyphs">HBV</text>
+    <text x="452.97" y="212.75" style="font-size: 8.8px; font-family: Arial; white-space: pre;" textLength="34.39px" lengthAdjust="spacingAndGlyphs">HBV.myr</text>
+    <text x="36.07" y="14.93" style="font-size: 13.2px; font-family: Arial; white-space: pre;" textLength="51.33px" lengthAdjust="spacingAndGlyphs">PCA plot</text>
+    <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px; opacity: 0.9;" x="238.266" y="348.15"> </text>
+  </g>
+</svg>
