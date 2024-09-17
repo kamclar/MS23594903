@@ -1,0 +1,4 @@
+"Protein.Group"	"Peptides"	"Protein.Ids"	"Protein.Names"	"Genes"	"First.Protein.Description"	"HF_1"	"HF_2"	"HF_3"	"HF_4"	"HF_5"	"HMF_1"	"HMF_2"	"HMF_3"	"HMF_4"	"HMF_5"	"MF_1"	"MF_2"	"MF_3"	"MF_4"	"MF_5"	"OF_1"	"OF_2"	"OF_3"	"OF_4"	"OF_5"
+"1"	"P47929"	1	"P47929"	"LEG7_HUMAN"	"LGALS7"	"Galectin-7"	NA	NA	NA	NA	"390394"	NA	NA	NA	NA	NA	NA	NA	NA	NA	"33426.2"	NA	NA	NA	NA	"34046.1"
+"2"	"P78386"	4	"K2M2_SHEEP"	"KRT85_HUMAN"	"KRT85"	"Keratin, type II cuticular Hb5"	NA	NA	NA	NA	NA	NA	NA	NA	NA	"625608"	NA	NA	NA	NA	"255433"	NA	NA	NA	"56358.4"	NA
+"3"	"Q14525"	6	"K1H1_HUMAN"	"KT33B_HUMAN"	"KRT33B"	"Keratin, type I cuticular Ha3-II"	NA	NA	NA	NA	NA	NA	NA	NA	NA	"766143"	NA	NA	NA	NA	"389110"	NA	NA	NA	"48866.8"	NA
