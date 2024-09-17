@@ -1,0 +1,3 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count","name"
+"R-HSA-71387","R-HSA-71387","Metabolism of carbohydrates","5/17","297/10955",6.70241300062895e-05,0.01481233273139,0.0127698605590931,"ALDH1A1/GAPDH/TKFC/GAA/GBE1",5,"Downres_DEq_MS_HMF_vs_MF"
+"R-HSA-3229121","R-HSA-3229121","Glycogen storage diseases","2/17","16/10955",0.000268542516059534,0.0296739480245785,0.0255822081088293,"GAA/GBE1",2,"Downres_DEq_MS_HMF_vs_MF"

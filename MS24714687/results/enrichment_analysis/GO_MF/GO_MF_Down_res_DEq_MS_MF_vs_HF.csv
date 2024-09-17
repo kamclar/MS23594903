@@ -1,0 +1,5 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count","name"
+"GO:0015929","GO:0015929","hexosaminidase activity","1/6","15/18369",0.00489023179600212,0.0443320676931944,0.0109800786856209,"3373",1,"Downres_DEq_MS_MF_vs_HF"
+"GO:0016722","GO:0016722","oxidoreductase activity, acting on metal ions","1/6","16/18369",0.00521553737566993,0.0443320676931944,0.0109800786856209,"1356",1,"Downres_DEq_MS_MF_vs_HF"
+"GO:0004629","GO:0004629","phospholipase C activity","1/6","27/18369",0.00878805377429903,0.0497380197398568,0.0123190141770543,"147111",1,"Downres_DEq_MS_MF_vs_HF"
+"GO:0030280","GO:0030280","structural constituent of skin epidermis","1/6","36/18369",0.0117030634682016,0.0497380197398568,0.0123190141770543,"3851",1,"Downres_DEq_MS_MF_vs_HF"

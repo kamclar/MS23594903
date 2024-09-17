@@ -1,0 +1,4 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count","name"
+"GO:0042562","GO:0042562","hormone binding","1/1","84/18369",0.00457292177037405,0.00996243671402902,NA,"7276",1,"Downres_DEq_MS_MF_vs_OF"
+"GO:0005179","GO:0005179","hormone activity","1/1","122/18369",0.00664162447601935,0.00996243671402902,NA,"7276",1,"Downres_DEq_MS_MF_vs_OF"
+"GO:0048018","GO:0048018","receptor ligand activity","1/1","497/18369",0.027056453808046,0.027056453808046,NA,"7276",1,"Downres_DEq_MS_MF_vs_OF"

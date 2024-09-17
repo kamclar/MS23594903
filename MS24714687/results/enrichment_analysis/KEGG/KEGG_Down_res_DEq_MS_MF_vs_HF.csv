@@ -1,0 +1,4 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count","name"
+"hsa00531","hsa00531","Glycosaminoglycan degradation","1/4","19/8846",0.00856526132528024,0.0412843021722566,0.0217285800906614,"3373",1,"Downres_DEq_MS_MF_vs_HF"
+"hsa04216","hsa04216","Ferroptosis","1/4","42/8846",0.0188599819891023,0.0412843021722566,0.0217285800906614,"1356",1,"Downres_DEq_MS_MF_vs_HF"
+"hsa00860","hsa00860","Porphyrin metabolism","1/4","46/8846",0.0206421510861283,0.0412843021722566,0.0217285800906614,"1356",1,"Downres_DEq_MS_MF_vs_HF"
