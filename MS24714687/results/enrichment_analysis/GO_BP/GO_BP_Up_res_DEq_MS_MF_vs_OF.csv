@@ -1,0 +1,3 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count","name"
+"GO:0035308","GO:0035308","negative regulation of protein dephosphorylation","2/10","32/18614",0.000127742045832097,0.0375561614746364,0.0247416172980061,"7529/3958",2,"Upres_DEq_MS_MF_vs_OF"
+"GO:0035305","GO:0035305","negative regulation of dephosphorylation","2/10","46/18614",0.000265490956984753,0.0390271706767587,0.025710703202734,"7529/3958",2,"Upres_DEq_MS_MF_vs_OF"

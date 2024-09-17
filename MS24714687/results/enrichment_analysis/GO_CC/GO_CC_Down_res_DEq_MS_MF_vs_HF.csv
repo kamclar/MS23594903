@@ -1,0 +1,2 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count","name"
+"GO:0005775","GO:0005775","vacuolar lumen","2/6","176/19518",0.00118426349074808,0.0331593777409462,0.0211920835186498,"3373/388697",2,"Downres_DEq_MS_MF_vs_HF"

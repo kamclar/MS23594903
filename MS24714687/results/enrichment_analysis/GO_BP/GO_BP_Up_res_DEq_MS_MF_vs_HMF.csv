@@ -1,0 +1,2 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count","name"
+"GO:0006081","GO:0006081","cellular aldehyde metabolic process","3/17","69/18614",3.19384551854245e-05,0.0288084865772529,0.0185915428605682,"216/26007/2739",3,"Upres_DEq_MS_MF_vs_HMF"
