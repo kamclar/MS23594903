@@ -1,0 +1,5 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count","name"
+"hsa01200","hsa01200","Carbon metabolism","6/45","116/8866",2.36696091731322e-05,0.0027220050549102,0.00254136856385209,"26007/48/4191/3417/2597/226",6,"Downres_DEq_MS_BFM_vs_CFM"
+"hsa00020","hsa00020","Citrate cycle (TCA cycle)","3/45","30/8866",0.000450770557442092,0.0207492626944887,0.0193723093349002,"48/4191/3417",3,"Downres_DEq_MS_BFM_vs_CFM"
+"hsa01230","hsa01230","Biosynthesis of amino acids","4/45","75/8866",0.000541285113769271,0.0207492626944887,0.0193723093349002,"48/3417/2597/226",4,"Downres_DEq_MS_BFM_vs_CFM"
+"hsa04141","hsa04141","Protein processing in endoplasmic reticulum","5/45","170/8866",0.00160557287536851,0.0461602201668446,0.0430969561283126,"5589/9601/7415/5034/3309",5,"Downres_DEq_MS_BFM_vs_CFM"

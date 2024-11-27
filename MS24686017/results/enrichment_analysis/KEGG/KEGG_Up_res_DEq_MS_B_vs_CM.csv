@@ -1,0 +1,2 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count","name"
+"hsa05230","hsa05230","Central carbon metabolism in cancer","2/7","71/8865",0.00129413784704354,0.0323534461760885,0.0217960058449438,"27165/51548",2,"Upres_DEq_MS_B_vs_CM"

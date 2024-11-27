@@ -1,0 +1,4 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count","name"
+"hsa04512","hsa04512","ECM-receptor interaction","5/14","89/8866",1.6968403990171e-07,9.84167431429916e-06,8.03766504797572e-06,"375790/3911/3339/1293/1280",5,"Upres_DEq_MS_BFM_vs_CFM"
+"hsa04974","hsa04974","Protein digestion and absorption","3/14","105/8866",0.000534336300525347,0.0154957527152351,0.0126553334334951,"1293/1280/80781",3,"Upres_DEq_MS_BFM_vs_CFM"
+"hsa04151","hsa04151","PI3K-Akt signaling pathway","4/14","362/8866",0.00197525514555719,0.0381882661474389,0.0311882391403766,"3911/1293/1280/3815",4,"Upres_DEq_MS_BFM_vs_CFM"

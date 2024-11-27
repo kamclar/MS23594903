@@ -1,0 +1,5 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count","name"
+"GO:0005537","GO:0005537","mannose binding","1/2","25/18369",0.00272019894903208,0.0108807957961283,NA,"432",1,"Downres_DEq_MS_CF_vs_CFM"
+"GO:0048029","GO:0048029","monosaccharide binding","1/2","75/18369",0.0081494825018591,0.0120223902071033,NA,"432",1,"Downres_DEq_MS_CF_vs_CFM"
+"GO:0038024","GO:0038024","cargo receptor activity","1/2","83/18369",0.00901679265532751,0.0120223902071033,NA,"432",1,"Downres_DEq_MS_CF_vs_CFM"
+"GO:0030246","GO:0030246","carbohydrate binding","1/2","273/18369",0.0295039096887783,0.0295039096887783,NA,"432",1,"Downres_DEq_MS_CF_vs_CFM"

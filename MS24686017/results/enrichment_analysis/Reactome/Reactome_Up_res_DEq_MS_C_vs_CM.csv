@@ -1,0 +1,3 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count","name"
+"R-HSA-8963888","R-HSA-8963888","Chylomicron assembly","1/3","10/10955",0.00273622614977853,0.041043392246678,0.00864071415719536,"APOA2",1,"Upres_DEq_MS_C_vs_CM"
+"R-HSA-8963901","R-HSA-8963901","Chylomicron remodeling","1/3","10/10955",0.00273622614977853,0.041043392246678,0.00864071415719536,"APOA2",1,"Upres_DEq_MS_C_vs_CM"

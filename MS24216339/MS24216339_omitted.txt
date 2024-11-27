@@ -1,0 +1,8 @@
+"Protein.Group"	"Peptides"	"Protein.Names"	"Genes"	"First.Protein.Description"	"BF_1"	"BF_2"	"BF_3"	"BF_4"	"BFM_1"	"BFM_2"	"BFM_3"	"BFM_4"	"CF_1"	"CF_2"	"CF_3"	"CF_4"	"CFM_1"	"CFM_2"	"CFM_3"	"CFM_4"
+"1"	"Q99832"	1	"TCPH_HUMAN"	"CCT7"	"T-complex protein 1 subunit eta"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"44522.7"	NA	NA	NA	NA	NA
+"2"	"O95980"	1	"RECK_HUMAN"	"RECK"	"Reversion-inducing cysteine-rich protein with Kazal motifs"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"18898.7"	NA	NA	NA	NA	NA
+"3"	"Q8WUM4"	1	"PDC6I_HUMAN"	"PDCD6IP"	"Programmed cell death 6-interacting protein"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"15036.7"	NA	NA	NA	NA
+"4"	"P55157"	1	"MTP_HUMAN"	"MTTP"	"Microsomal triglyceride transfer protein large subunit"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"44843.7"	NA	NA	NA	NA	NA
+"5"	"P21964"	1	"COMT_HUMAN"	"COMT"	"Catechol O-methyltransferase"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	"24993.9"	NA	NA	NA	NA	NA
+"6"	"Q96NY7;Q9NZA1"	1	"CLIC5_HUMAN"	"CLIC5;CLIC6"	"Chloride intracellular channel protein 6"	NA	NA	NA	NA	NA	NA	NA	"40168.6"	NA	NA	NA	NA	NA	NA	NA	NA
+"7"	"O95394"	1	"AGM1_HUMAN"	"PGM3"	"Phosphoacetylglucosamine mutase"	NA	NA	NA	NA	NA	NA	NA	"20200.1"	NA	NA	NA	NA	NA	NA	NA	NA

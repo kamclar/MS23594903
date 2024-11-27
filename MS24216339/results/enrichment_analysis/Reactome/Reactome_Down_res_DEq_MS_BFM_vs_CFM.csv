@@ -1,0 +1,2 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count","name"
+"R-HSA-6798695","R-HSA-6798695","Neutrophil degranulation","10/50","481/10955",5.11131509435304e-05,0.023512049434024,0.0206604736445428,"SERPINB1/SPTAN1/LGALS3/VCP/IDH1/RAB5C/DSP/PRDX4/GGH/ALDOA",10,"Downres_DEq_MS_BFM_vs_CFM"

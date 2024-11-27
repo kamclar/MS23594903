@@ -1,0 +1,3 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count","name"
+"hsa03265","hsa03265","Virion - Ebolavirus, Lyssavirus and Morbillivirus","1/1","12/8866",0.00135348522445278,0.00270697044890555,NA,"432",1,"Downres_DEq_MS_CF_vs_CFM"
+"hsa04918","hsa04918","Thyroid hormone synthesis","1/1","75/8866",0.0084592826528308,0.0084592826528308,NA,"432",1,"Downres_DEq_MS_CF_vs_CFM"

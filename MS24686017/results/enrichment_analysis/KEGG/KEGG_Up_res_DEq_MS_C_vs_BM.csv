@@ -1,0 +1,2 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count","name"
+"hsa00982","hsa00982","Drug metabolism - cytochrome P450","3/17","73/8865",0.000335335536850745,0.0174374479162387,0.0137664062496622,"2330/2939/7365",3,"Upres_DEq_MS_C_vs_BM"

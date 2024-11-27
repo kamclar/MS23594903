@@ -1,0 +1,4 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count","name"
+"GO:0006081","GO:0006081","cellular aldehyde metabolic process","3/6","69/18614",9.67262211702477e-07,0.000209895899939438,9.46898796719267e-05,"8644/2739/26007",3,"Downres_DEq_MS_BFM_vs_CF"
+"GO:0046164","GO:0046164","alcohol catabolic process","2/6","54/18614",0.000122989223583458,0.0133443307588052,0.00601999883855876,"8644/26007",2,"Downres_DEq_MS_BFM_vs_CF"
+"GO:1901616","GO:1901616","organic hydroxy compound catabolic process","2/6","74/18614",0.000231475868903974,0.0167434211840541,0.00755342309055072,"8644/26007",2,"Downres_DEq_MS_BFM_vs_CF"
