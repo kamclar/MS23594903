@@ -1,0 +1,3 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count","name"
+"hsa03030","hsa03030","DNA replication","4/6","36/8846",3.44542748867592e-09,3.44542748867592e-08,2.17605946653216e-08,"4172/4176/4175/4173",4,"Upres_DEq_MS_Null_vs_M"
+"hsa04110","hsa04110","Cell cycle","5/6","158/8846",1.00956110496705e-08,5.04780552483525e-08,3.18808769989595e-08,"4172/4176/4175/4173/983",5,"Upres_DEq_MS_Null_vs_M"

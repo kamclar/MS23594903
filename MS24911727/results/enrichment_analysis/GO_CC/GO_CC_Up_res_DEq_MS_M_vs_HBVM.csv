@@ -1,0 +1,4 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count","name"
+"GO:0072562","GO:0072562","blood microparticle","1/1","144/19518",0.0073778051029818,0.0212624244287324,NA,"462",1,"Upres_DEq_MS_M_vs_HBVM"
+"GO:0005788","GO:0005788","endoplasmic reticulum lumen","1/1","312/19518",0.0159852443897939,0.0212624244287324,NA,"462",1,"Upres_DEq_MS_M_vs_HBVM"
+"GO:0062023","GO:0062023","collagen-containing extracellular matrix","1/1","415/19518",0.0212624244287324,0.0212624244287324,NA,"462",1,"Upres_DEq_MS_M_vs_HBVM"

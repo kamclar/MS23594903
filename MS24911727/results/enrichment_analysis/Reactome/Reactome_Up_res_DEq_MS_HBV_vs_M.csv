@@ -1,0 +1,3 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count","name"
+"R-HSA-1538133","R-HSA-1538133","G0 and Early G1","2/10","27/10955",0.000260061451889089,0.0229605319579732,0.0144539984461957,"TOP2A/CDK1",2,"Upres_DEq_MS_HBV_vs_M"
+"R-HSA-5619115","R-HSA-5619115","Disorders of transmembrane transporters","3/10","176/10955",0.000450206508979867,0.0229605319579732,0.0144539984461957,"ABCC6/CP/SLC22A18",3,"Upres_DEq_MS_HBV_vs_M"

@@ -1,0 +1,6 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count","name"
+"R-HSA-140875","R-HSA-140875","Common Pathway of Fibrin Clot Formation","1/1","22/10955",0.00200821542674579,0.0052487448653582,NA,"SERPINC1",1,"Downres_DEq_MS_HBVM_vs_M"
+"R-HSA-140837","R-HSA-140837","Intrinsic Pathway of Fibrin Clot Formation","1/1","23/10955",0.00209949794614328,0.0052487448653582,NA,"SERPINC1",1,"Downres_DEq_MS_HBVM_vs_M"
+"R-HSA-140877","R-HSA-140877","Formation of Fibrin Clot (Clotting Cascade)","1/1","39/10955",0.00356001825650387,0.00593336376083979,NA,"SERPINC1",1,"Downres_DEq_MS_HBVM_vs_M"
+"R-HSA-8957275","R-HSA-8957275","Post-translational protein phosphorylation","1/1","108/10955",0.00985851209493405,0.0114103149246919,NA,"SERPINC1",1,"Downres_DEq_MS_HBVM_vs_M"
+"R-HSA-381426","R-HSA-381426","Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)","1/1","125/10955",0.0114103149246919,0.0114103149246919,NA,"SERPINC1",1,"Downres_DEq_MS_HBVM_vs_M"

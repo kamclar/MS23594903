@@ -1,0 +1,4 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count","name"
+"R-HSA-2129379","R-HSA-2129379","Molecules associated with elastic fibres","1/1","37/10955",0.00337745321770866,0.00602464628023752,NA,"FBLN1",1,"Downres_DEq_MS_Null_vs_M"
+"R-HSA-1566948","R-HSA-1566948","Elastic fibre formation","1/1","44/10955",0.00401643085349168,0.00602464628023752,NA,"FBLN1",1,"Downres_DEq_MS_Null_vs_M"
+"R-HSA-1474244","R-HSA-1474244","Extracellular matrix organization","1/1","300/10955",0.0273847558192607,0.0273847558192607,NA,"FBLN1",1,"Downres_DEq_MS_Null_vs_M"

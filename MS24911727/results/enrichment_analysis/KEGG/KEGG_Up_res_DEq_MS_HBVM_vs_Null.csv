@@ -1,0 +1,4 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count","name"
+"hsa04370","hsa04370","VEGF signaling pathway","1/1","60/8846",0.00678272665611568,0.0174655211394979,NA,"3315",1,"Upres_DEq_MS_HBVM_vs_Null"
+"hsa05146","hsa05146","Amoebiasis","1/1","103/8846",0.0116436807596653,0.0174655211394979,NA,"3315",1,"Upres_DEq_MS_HBVM_vs_Null"
+"hsa04010","hsa04010","MAPK signaling pathway","1/1","300/8846",0.0339136332805785,0.0339136332805785,NA,"3315",1,"Upres_DEq_MS_HBVM_vs_Null"

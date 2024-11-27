@@ -1,0 +1,4 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count","name"
+"GO:0062023","GO:0062023","collagen-containing extracellular matrix","2/2","415/19518",0.000451024425551839,0.00135307327665552,NA,"2192/5858",2,"Upres_DEq_MS_M_vs_Null"
+"GO:0005604","GO:0005604","basement membrane","1/2","84/19518",0.00858913684635509,0.0128837052695326,NA,"2192",1,"Upres_DEq_MS_M_vs_Null"
+"GO:0072562","GO:0072562","blood microparticle","1/2","144/19518",0.0147015534282969,0.0147015534282969,NA,"5858",1,"Upres_DEq_MS_M_vs_Null"
