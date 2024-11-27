@@ -1,3 +1,0 @@
-"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count","name"
-"GO:0062023","GO:0062023","collagen-containing extracellular matrix","3/5","415/19518",9.24492200330366e-05,0.00199640283669846,0.000859695001449097,"3339/2335/64129",3,"Upres_DEq_MS_BM_vs_CM"
-"GO:0005604","GO:0005604","basement membrane","2/5","84/19518",0.000181491166972587,0.00199640283669846,0.000859695001449097,"3339/2335",2,"Upres_DEq_MS_BM_vs_CM"

@@ -1,3 +1,0 @@
-"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count","name"
-"hsa04512","hsa04512","ECM-receptor interaction","3/3","89/8866",9.7803797351987e-07,1.27144936557583e-05,6.17708193802023e-06,"3339/3672/255743",3,"Upres_DEq_MS_BM_vs_B"
-"hsa04820","hsa04820","Cytoskeleton in muscle cells","2/3","232/8866",0.00201018672211403,0.0130662136937412,0.00634795806983379,"3339/3672",2,"Upres_DEq_MS_BM_vs_B"

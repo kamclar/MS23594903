@@ -1,3 +1,0 @@
-"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count","name"
-"hsa05150","hsa05150","Staphylococcus aureus infection","3/3","102/8866",1.47871790403087e-06,2.95743580806174e-06,NA,"3860/342574/1828",3,"Downres_DEq_MS_C_vs_CM"
-"hsa04915","hsa04915","Estrogen signaling pathway","2/3","139/8866",0.00072462039756037,0.00072462039756037,NA,"3860/342574",2,"Downres_DEq_MS_C_vs_CM"
