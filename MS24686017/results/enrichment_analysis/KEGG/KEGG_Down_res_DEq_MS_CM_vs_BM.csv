@@ -1,0 +1,4 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count","name"
+"hsa04512","hsa04512","ECM-receptor interaction","2/3","89/8541",0.000319939152913456,0.00479908729370183,0.00168389027849187,"3339/2335",2,"Downres_DEq_MS_CM_vs_BM"
+"hsa05205","hsa05205","Proteoglycans in cancer","2/3","204/8541",0.00167639795757882,0.0108231882620524,0.0037976099165096,"3339/2335",2,"Downres_DEq_MS_CM_vs_BM"
+"hsa04820","hsa04820","Cytoskeleton in muscle cells","2/3","232/8541",0.00216463765241047,0.0108231882620524,0.0037976099165096,"3339/2335",2,"Downres_DEq_MS_CM_vs_BM"
