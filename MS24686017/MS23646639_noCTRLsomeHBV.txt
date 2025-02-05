@@ -1,0 +1,10 @@
+"Protein.Group"	"Peptides"	"Protein_Names"	"Genes"	"First.Protein.Description"	"CTRL_2"	"CTRL_3"	"CTRL_4"	"CTRL.myr_1"	"CTRL.myr_2"	"CTRL.myr_3"	"CTRL.myr_4"	"HBV_1"	"HBV_2"	"HBV_3"	"HBV_4"	"HBV.myr_1"	"HBV.myr_2"	"HBV.myr_3"	"HBV.myr_4"
+"1"	"Q9NQH7"	1	"XPP3_HUMAN"	"XPNPEP3"	"Xaa-Pro aminopeptidase 3"	NA	NA	NA	NA	NA	NA	NA	274928	242900	374428	NA	NA	NA	NA	NA
+"2"	"Q8TAV4"	1	"STML3_HUMAN"	"STOML3"	"Stomatin-like protein 3"	NA	NA	NA	NA	NA	NA	NA	NA	22292.4	35920.4	55845	NA	NA	NA	NA
+"3"	"P15907"	1	"SIAT1_HUMAN"	"ST6GAL1"	"Beta-galactoside alpha-2,6-sialyltransferase 1"	NA	NA	NA	NA	NA	15030.2	NA	16744.6	NA	NA	NA	NA	16400.7	23240.1	19981.7
+"4"	"P48594"	2	"SPB4_HUMAN"	"SERPINB4"	"Serpin B4"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	67595.6	62456.4	NA	80739.1	NA
+"5"	"P03138"	2	"HBSAG_HBVD3"	"S"	"Large envelope protein"	NA	NA	NA	NA	NA	NA	NA	1138490	646559	790274	618686	NA	NA	NA	NA
+"6"	"P62081"	1	"RS7_HUMAN"	"RPS7"	"40S ribosomal protein S7"	NA	NA	NA	NA	NA	NA	NA	68977.1	NA	NA	NA	NA	73448.6	63115.6	NA
+"7"	"P04843"	1	"RPN1_HUMAN"	"RPN1"	"Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 1"	17787.4	NA	NA	NA	NA	NA	NA	52743.4	NA	NA	NA	NA	46078.6	18933.9	NA
+"8"	"P30050"	1	"RL12_HUMAN"	"RPL12"	"60S ribosomal protein L12"	NA	NA	NA	NA	NA	37573.6	NA	NA	NA	NA	NA	21871.8	13157.4	14978.2	17860.2
+"9"	"P08519"	1	"APOA_HUMAN"	"LPA"	"Apolipoprotein(a)"	NA	NA	NA	12100.8	NA	NA	NA	NA	27695.1	NA	NA	15847.6	25648.3	NA	67860.5
