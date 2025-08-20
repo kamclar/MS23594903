@@ -1,0 +1,80 @@
+Functional Enrichment Analysis Results - explanation
+==========================================================================
+
+Both Analysis (ORA) and Gene Set Enrichment Analysis (GSEA) were performed using multiple gene set libraries (GO, KEGG, Reactome, WikiPathways).
+
+------------------------------------------------------------
+Dir Structure
+------------------------------------------------------------
+
+ORA
+   - Over-representation analysis using all identified proteins.
+   - CSV tables with enriched terms.
+     * Bubble plots: X = enrichment ratio, size = overlap count, color = -log10(p).
+     * Bar plots: Bars sorted by enrichment ratio, colored by -log10(p).
+
+ORA_top_percentile
+   - ORA restricted to the top intensity percentile proteins.
+   - Highlights pathways enriched in the most abundant proteins.
+   - Bubble + bar plots (PNG + SVG).
+
+GSEA_full_rank
+   - GSEA prerank results using the full ranked protein list.
+   - Subfolders for each database.
+   - "prerank/" directories contain one plot per enriched term (running enrichment score curves).
+   - Useful for detailed diagnostic inspection - this was mainly for me.
+
+dual_plots/GSEA/
+   - Summary GSEA plots for each database.
+   - Top enriched pathways only (e.g. top 20).
+   - Scatter plots: NES vs. pathway (size = |NES|, color = -log10(FDR/p)). NES = normalized enrichment score
+   - Bar plots: NES values sorted, colored by -log10(FDR/p).
+
+tables
+   - Gene-level and enrichment result CSVs (all terms, not just top N).
+   - Useful for downstream analysis.
+
+plots
+   - Additional bubble + bar plots generated during analysis.
+
+------------------------------------------------------------
+Notes
+------------------------------------------------------------
+- ORA: "Are certain pathways overrepresented among my selected genes?"
+  why ORA? using full gene set would create noisy results
+- GSEA: "Do genes from certain pathways cluster at the top or bottom of the ranked list?"
+- Both methods have something good.
+- Protein intensity was used as a proxy for abundance when ranking.
+
+------------------------------------------------------------
+How to Read the Plots
+------------------------------------------------------------
+- Bubble plot:
+  * X-axis: enrichment ratio (observed/expected overlap).
+  * Size: number of overlapping genes (k).
+  * Color: significance (-log10(p) or -log10(FDR)).
+
+- Bar plot:
+  * X-axis: enrichment ratio (ORA) or NES (GSEA).
+  * Bars sorted from strongest to weakest enrichment.
+  * Color: significance (-log10(p) or -log10(FDR)).
+
+------------------------------------------------------------
+Notes for thought
+------------------------------------------------------------
+
+Regulators vs. structural proteins
+- Structural / housekeeping proteins (tubulin, actin, ribosomal proteins) are super abundant → they dominate the intensity ranking.
+- Regulatory proteins (transcription factors, kinases, signaling molecules) are often low copy number...
+
+
+Viral/host interaction factors
+- In infection or inoculum, viral proteins or host restriction factors may be of low abundance?
+- They may still be critical for the phenotype, even though they may not always be among the top n% of abundant proteins.
+
+
+Technical sensitivity
+- Mass spec has a dynamic range limit: a small regulatory protein may appear with low intensity simply because it’s harder to ionize/detect...
+
+
+
