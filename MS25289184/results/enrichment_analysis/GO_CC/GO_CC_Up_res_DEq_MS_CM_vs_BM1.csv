@@ -1,0 +1,2 @@
+"","ID","Description","GeneRatio","BgRatio","RichFactor","FoldEnrichment","zScore","pvalue","p.adjust","qvalue","geneID","Count","name"
+"GO:0072562","GO:0072562","blood microparticle","4/16","145/19944",0.0275862068965517,34.3862068965517,11.4328059541021,4.55800395738271e-06,0.000159530138508395,8.63621802451462e-05,"3493/1/731/10878",4,"Upres_DEq_MS_CM_vs_BM1"
