@@ -1,0 +1,2 @@
+"","ID","Description","GeneRatio","BgRatio","RichFactor","FoldEnrichment","zScore","pvalue","p.adjust","qvalue","geneID","Count","name"
+"GO:0003735","GO:0003735","structural constituent of ribosome","6/44","175/18662",0.0342857142857143,14.5418181818182,8.74963756967916,3.27791236828654e-06,0.000390071571826099,0.000317439934613013,"65008/84545/65003/6224/54460/51650",6,"Downres_DEq_MS_B1_vs_BT"
