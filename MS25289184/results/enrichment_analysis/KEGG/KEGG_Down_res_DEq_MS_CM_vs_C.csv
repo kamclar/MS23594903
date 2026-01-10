@@ -1,4 +1,0 @@
-"","category","subcategory","ID","Description","GeneRatio","BgRatio","RichFactor","FoldEnrichment","zScore","pvalue","p.adjust","qvalue","geneID","Count","name"
-"hsa04382","Organismal Systems","Development and regeneration","hsa04382","Cornified envelope formation","2/2","217/9520",0.00921658986175115,43.8709677419355,9.26018055343522,0.000517231790289389,0.00155169537086817,NA,"3880/3855",2,"Downres_DEq_MS_CM_vs_C"
-"hsa05150","Human Diseases","Infectious disease: bacterial","hsa05150","Staphylococcus aureus infection","1/2","102/9520",0.00980392156862745,46.6666666666667,6.72137097568282,0.0213148890189545,0.0289900076008973,NA,"3880",1,"Downres_DEq_MS_CM_vs_C"
-"hsa04915","Organismal Systems","Endocrine system","hsa04915","Estrogen signaling pathway","1/2","139/9520",0.00719424460431655,34.2446043165468,5.72323806675762,0.0289900076008973,0.0289900076008973,NA,"3880",1,"Downres_DEq_MS_CM_vs_C"
