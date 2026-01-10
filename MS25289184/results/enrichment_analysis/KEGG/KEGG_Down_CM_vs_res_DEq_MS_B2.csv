@@ -1,0 +1,4 @@
+"category","subcategory","ID","Description","GeneRatio","BgRatio","RichFactor","FoldEnrichment","zScore","pvalue","p.adjust","qvalue","geneID","Count","name"
+"Organismal Systems","Digestive system","hsa04979","Cholesterol metabolism","3/16","51/9521",0.0588235294117647,35.0036764705882,9.9893764278905,7.72041424788061e-05,0.00301096155667344,0.00227549051516481,"1581/344/345",3,"Down_CM_vs_res_DEq_MS_B2"
+"Organismal Systems","Endocrine system","hsa03320","PPAR signaling pathway","3/16","76/9521",0.0394736842105263,23.4893092105263,8.07577732650934,0.000254023175952585,0.00495345193107541,0.00374349943509073,"123/1581/345",3,"Down_CM_vs_res_DEq_MS_B2"
+"Metabolism","Amino acid metabolism","hsa00270","Cysteine and methionine metabolism","2/16","52/9521",0.0384615384615385,22.8870192307692,6.49289886078368,0.00334315906019977,0.043461067782597,0.0328450714686293,"6898/1036",2,"Down_CM_vs_res_DEq_MS_B2"

@@ -1,0 +1,4 @@
+"category","subcategory","ID","Description","GeneRatio","BgRatio","RichFactor","FoldEnrichment","zScore","pvalue","p.adjust","qvalue","geneID","Count","name"
+"Metabolism","Metabolism of other amino acids","hsa00430","Taurine and hypotaurine metabolism","2/13","17/9521",0.117647058823529,86.1628959276018,12.9947291440052,0.000231379057733871,0.00832964607841937,0.00487113805755519,"570/1036",2,"Up_res_DEq_MS_B1_vs_C"
+"Metabolism","Amino acid metabolism","hsa00270","Cysteine and methionine metabolism","2/13","52/9521",0.0384615384615385,28.1686390532544,7.26378634357922,0.00219594191436617,0.039526954458591,0.0231151780459596,"6898/1036",2,"Up_res_DEq_MS_B1_vs_C"
+"Metabolism","Carbohydrate metabolism","hsa00010","Glycolysis / Gluconeogenesis","2/13","67/9521",0.0298507462686567,21.8622273249139,6.33630157978431,0.00361951887826387,0.0434342265391664,0.0254001324790447,"230/2645",2,"Up_res_DEq_MS_B1_vs_C"
