@@ -1,2 +1,0 @@
-"","ID","Description","GeneRatio","BgRatio","RichFactor","FoldEnrichment","zScore","pvalue","p.adjust","qvalue","geneID","Count","name"
-"GO:0106068","GO:0106068","SUMO ligase complex","6/195","13/19944",0.461538461538462,47.2047337278107,16.5589806551139,1.31117224626732e-09,2.68790310484801e-07,2.42911910887419e-07,"56160/286053/197370/54780/23137/79677",6,"Downres_DEq_MS_BM1_vs_BDM"

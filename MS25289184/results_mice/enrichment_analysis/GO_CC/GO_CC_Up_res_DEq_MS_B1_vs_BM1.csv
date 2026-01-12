@@ -1,2 +1,0 @@
-"","ID","Description","GeneRatio","BgRatio","RichFactor","FoldEnrichment","zScore","pvalue","p.adjust","qvalue","geneID","Count","name"
-"GO:0005788","GO:0005788","endoplasmic reticulum lumen","1/1","319/19944",0.00313479623824451,62.5203761755486,7.84349260059245,0.0159947853991176,0.0159947853991176,NA,"5955",1,"Upres_DEq_MS_B1_vs_BM1"

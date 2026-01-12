@@ -1,4 +1,0 @@
-"","ID","Description","GeneRatio","BgRatio","RichFactor","FoldEnrichment","zScore","pvalue","p.adjust","qvalue","geneID","Count","name"
-"GO:0030280","GO:0030280","structural constituent of skin epidermis","2/2","62/18662",0.032258064516129,301,24.4955537667724,1.08599650237913e-05,3.2579895071374e-05,NA,"3880/3855",2,"Upres_DEq_MS_CM_vs_C"
-"GO:0008307","GO:0008307","structural constituent of muscle","1/2","43/18662",0.0232558139534884,217,14.6803509346238,0.00460310902478533,0.006904663537178,NA,"3880",1,"Upres_DEq_MS_CM_vs_C"
-"GO:0005200","GO:0005200","structural constituent of cytoskeleton","1/2","115/18662",0.00869565217391304,81.1391304347826,8.92448871022923,0.0122868645001587,0.0122868645001587,NA,"3880",1,"Upres_DEq_MS_CM_vs_C"

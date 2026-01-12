@@ -1,3 +1,0 @@
-"","category","subcategory","ID","Description","GeneRatio","BgRatio","RichFactor","FoldEnrichment","zScore","pvalue","p.adjust","qvalue","geneID","Count","name"
-"hsa04382","Organismal Systems","Development and regeneration","hsa04382","Cornified envelope formation","9/41","217/9521",0.0414746543778802,9.63122400809262,8.45811601951677,2.61447216107592e-07,2.14386717208226e-05,1.84389089254828e-05,"23581/196374/6279/6280/6278/3854/3852/388698/1823",9,"Downres_DEq_MS_BT_vs_B2"
-"hsa04979","Organismal Systems","Digestive system","hsa04979","Cholesterol metabolism","4/41","51/9521",0.0784313725490196,18.2132950741272,8.1055100017987,6.38973081744767e-05,0.00261978963515355,0.00225322086720523,"345/344/336/341",4,"Downres_DEq_MS_BT_vs_B2"

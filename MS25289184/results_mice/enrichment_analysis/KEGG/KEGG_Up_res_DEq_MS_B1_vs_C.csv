@@ -1,2 +1,0 @@
-"","category","subcategory","ID","Description","GeneRatio","BgRatio","RichFactor","FoldEnrichment","zScore","pvalue","p.adjust","qvalue","geneID","Count","name"
-"hsa00430","Metabolism","Metabolism of other amino acids","hsa00430","Taurine and hypotaurine metabolism","2/15","17/9521",0.117647058823529,74.6745098039216,12.0768507883714,0.000310818129669433,0.0161625427428105,0.0137414331011749,"570/1036",2,"Upres_DEq_MS_B1_vs_C"
