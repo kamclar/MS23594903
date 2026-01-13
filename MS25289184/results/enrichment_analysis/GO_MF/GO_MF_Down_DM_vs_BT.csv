@@ -1,0 +1,3 @@
+"ID","Description","GeneRatio","BgRatio","RichFactor","FoldEnrichment","zScore","pvalue","p.adjust","qvalue","geneID","Count","name"
+"GO:0016702","oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen","3/105","23/18662",0.130434782608696,23.1826086956522,8.00706684639878,0.000282402496512296,0.0437143022243645,0.0382330971466966,"6999/247/1036",3,"Down_DM_vs_BT"
+"GO:0016701","oxidoreductase activity, acting on single donors with incorporation of molecular oxygen","3/105","24/18662",0.125,22.2166666666667,7.82332446414259,0.00032142869282621,0.0437143022243645,0.0382330971466966,"6999/247/1036",3,"Down_DM_vs_BT"

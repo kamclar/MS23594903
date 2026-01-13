@@ -1,0 +1,2 @@
+"ID","Description","GeneRatio","BgRatio","RichFactor","FoldEnrichment","zScore","pvalue","p.adjust","qvalue","geneID","Count","name"
+"R-HSA-8963898","Plasma lipoprotein assembly","2/19","16/10173",0.125,66.9276315789474,11.4157943344868,0.00039045962676203,0.038655503049441,0.0308257600075287,"341/344",2,"Up_D_vs_DM"

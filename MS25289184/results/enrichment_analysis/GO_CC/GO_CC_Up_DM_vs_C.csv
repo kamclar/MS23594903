@@ -1,0 +1,2 @@
+"ID","Description","GeneRatio","BgRatio","RichFactor","FoldEnrichment","zScore","pvalue","p.adjust","qvalue","geneID","Count","name"
+"GO:0016324","apical plasma membrane","5/24","425/19944",0.0117647058823529,9.77647058823529,6.34807111272233,0.000130550964699298,0.00861636367015369,0.00645883720091266,"8647/55107/9962/5244/10991",5,"Up_DM_vs_C"

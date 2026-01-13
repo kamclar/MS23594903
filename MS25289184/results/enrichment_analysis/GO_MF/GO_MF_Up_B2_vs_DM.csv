@@ -1,0 +1,2 @@
+"ID","Description","GeneRatio","BgRatio","RichFactor","FoldEnrichment","zScore","pvalue","p.adjust","qvalue","geneID","Count","name"
+"GO:0055102","lipase inhibitor activity","2/27","20/18662",0.1,69.1185185185185,11.6016184939874,0.000376891664170034,0.0309051164619428,0.0238036840528442,"345/344",2,"Up_B2_vs_DM"

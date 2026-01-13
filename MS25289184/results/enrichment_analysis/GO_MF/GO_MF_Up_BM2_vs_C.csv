@@ -1,0 +1,3 @@
+"ID","Description","GeneRatio","BgRatio","RichFactor","FoldEnrichment","zScore","pvalue","p.adjust","qvalue","geneID","Count","name"
+"GO:0042056","chemoattractant activity","2/16","43/18662",0.0465116279069767,54.25,10.2402432175852,0.000609679326992138,0.0320967222295886,0.0212998843171183,"6275/10457",2,"Up_BM2_vs_C"
+"GO:0016712","oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen","2/16","46/18662",0.0434782608695652,50.7119565217391,9.88851768539265,0.000697754831078014,0.0320967222295886,0.0212998843171183,"1549/1581",2,"Up_BM2_vs_C"
