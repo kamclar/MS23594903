@@ -1,0 +1,2 @@
+"ID","Description","GeneRatio","BgRatio","RichFactor","FoldEnrichment","zScore","pvalue","p.adjust","qvalue","geneID","Count","name"
+"GO:0031201","SNARE complex","5/186","48/19944",0.104166666666667,11.1693548387097,6.84402142088613,8.26979248739795e-05,0.0277865027576571,0.0267244873013808,"8773/9570/8675/10652/8677",5,"Up_D1B_vs_res_limma_deqMS_MS_D1C"
