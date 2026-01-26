@@ -1,2 +1,0 @@
-"ID","Description","GeneRatio","BgRatio","RichFactor","FoldEnrichment","zScore","pvalue","p.adjust","qvalue","geneID","Count","name"
-"GO:0045296","cadherin binding","13/206","334/18662",0.0389221556886228,3.52604499738387,4.92140440586048,9.09836579575083e-05,0.0427623192400289,0.0391708590574957,"831/57698/9124/1192/4430/11336/8615/2317/3417/22905/301/4690/822",13,"Up_D8BM_vs_res_limma_deqMS_MS_D8C"

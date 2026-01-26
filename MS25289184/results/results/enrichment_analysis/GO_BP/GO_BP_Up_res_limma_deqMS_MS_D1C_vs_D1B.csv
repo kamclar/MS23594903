@@ -1,2 +1,0 @@
-"ID","Description","GeneRatio","BgRatio","RichFactor","FoldEnrichment","zScore","pvalue","p.adjust","qvalue","geneID","Count","name"
-"GO:0021548","pons development","2/22","11/18860",0.181818181818182,155.867768595041,17.5576545775338,7.0987243324464e-05,0.0282529228431367,0.0192039174046181,"27089/10427",2,"Up_res_limma_deqMS_MS_D1C_vs_D1B"

@@ -1,2 +1,0 @@
-"ID","Description","GeneRatio","BgRatio","RichFactor","FoldEnrichment","zScore","pvalue","p.adjust","qvalue","geneID","Count","name"
-"R-HSA-6798695","Neutrophil degranulation","16/121","430/10173",0.0372093023255814,3.12834902940611,4.94766569198779,4.73294715358067e-05,0.0330359711319931,0.0320843996516416,"8773/5717/8635/8566/80184/8895/5265/847/3689/967/1938/410/960/965/5864/6317",16,"Down_D8BM_vs_res_limma_deqMS_MS_D8C"

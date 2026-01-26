@@ -1,2 +1,0 @@
-"ID","Description","GeneRatio","BgRatio","RichFactor","FoldEnrichment","zScore","pvalue","p.adjust","qvalue","geneID","Count","name"
-"GO:0005484","SNAP receptor activity","5/187","37/18662",0.135135135135135,13.4860528978176,7.64845873648304,3.21754264540116e-05,0.013931959654587,0.0135814168505881,"8773/9570/8675/10652/8677",5,"Down_D1C_vs_res_limma_deqMS_MS_D1B"

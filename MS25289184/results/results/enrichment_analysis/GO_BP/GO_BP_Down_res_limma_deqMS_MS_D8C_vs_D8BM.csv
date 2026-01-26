@@ -1,2 +1,0 @@
-"ID","Description","GeneRatio","BgRatio","RichFactor","FoldEnrichment","zScore","pvalue","p.adjust","qvalue","geneID","Count","name"
-"GO:0006163","purine nucleotide metabolic process","17/201","454/18860",0.0374449339207048,3.51348981962435,5.62650261105663,7.82412319559665e-06,0.0217745348533455,0.0198732729168155,"6820/4728/10059/32/5198/8564/4694/8473/4709/5636/3417/2806/669/6818/4882/5313/3988",17,"Down_res_limma_deqMS_MS_D8C_vs_D8BM"
