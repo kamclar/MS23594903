@@ -1,0 +1,2 @@
+"ID","Description","GeneRatio","BgRatio","RichFactor","FoldEnrichment","zScore","pvalue","p.adjust","qvalue","geneID","Count","name"
+"GO:0000805","X chromosome","2/41","11/19944",0.181818181818182,88.4434589800444,13.1663452561941,0.000224133617565673,0.0277925685781434,0.023593012375334,"23347/23309",2,"Down_res_limma_deqMS_MS_D2BM_vs_D2B"
